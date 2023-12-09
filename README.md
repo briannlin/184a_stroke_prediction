@@ -16,8 +16,8 @@
  - `stroke_prediction.ipynb` - Jupyter notebook containing the project work. Contains scripts for dataset visualization, dataset pre-processing, model evaluation, SMOTE sampling, grid-search cross-validation + hyperparameter tuning, and model exploration. Contains run output of all cells as well.
 
 ### 3. Best Classifier Models
-- `log_reg_best_model` - Best logistic regression model (highest valdatiion performance after hyperparameter tuning).
-- `dt_best_model` - Best decision tree model (highest valdatiion performance after hyperparameter tuning).
-- `rf_best_model` - Best random forest model (highest valdatiion performance after hyperparameter tuning).
-- `knn_best_model` - Best K-nearest neighbors model (highest valdatiion performance after hyperparameter tuning).
-- `mlp_best_model` - Best multi-layer perception model (highest valdatiion performance after hyperparameter tuning).
+- `models/log_reg_best_model` - Best logistic regression model (highest valdatiion performance after hyperparameter tuning).
+- `models/dt_best_model` - Best decision tree model (highest valdatiion performance after hyperparameter tuning).
+- `models/rf_best_model` - Best random forest model (highest valdatiion performance after hyperparameter tuning).
+- `models/knn_best_model` - Best K-nearest neighbors model (highest valdatiion performance after hyperparameter tuning).
+- `models/mlp_best_model` - Best multi-layer perception model (highest valdatiion performance after hyperparameter tuning).
