@@ -14,6 +14,7 @@
 
 ### 2. Jupyter Notebook
  - `stroke_prediction.ipynb` - Jupyter notebook containing the project work. Contains scripts for dataset visualization, dataset pre-processing, model evaluation, SMOTE sampling, grid-search cross-validation + hyperparameter tuning, and model exploration. Contains run output of all cells as well.
+ - `stroke_prediction.html` - HTML version of the Jupyter Notebook, with code + cell ouputs.
 
 ### 3. Best Classifier Models
 - `models/log_reg_best_model` - Best logistic regression model (highest valdatiion performance after hyperparameter tuning).
